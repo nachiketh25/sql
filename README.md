@@ -1,4 +1,5 @@
-# sql
+# ERP_college_backend
+
 1.This a back end code implemented through FLASK micro web framework .
 
 2.The sqlalchemy is used for datamanagement. 
